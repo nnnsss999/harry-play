@@ -1,0 +1,3 @@
+# Preserve whitespace in generated shader code.
+Play.html -whitespace
+index.html -whitespace

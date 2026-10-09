@@ -14,6 +14,13 @@ Build: `0.6.2-main-0e3097d`.
   passed. Checked Hebrew layout, settings and control persistence, touch
   controls, exhibition play, and story save isolation. No browser errors.
 - `index.html` and `Play.html` match the tested build byte for byte.
+- GitHub Pages deployment completed. Public URL:
+  `https://nnnsss999.github.io/harry-play/`.
+- Downloads of the public root page and `Play.html` match the tested build
+  byte for byte.
+- `node tools/hebrew-interface-test.mjs https://nnnsss999.github.io/harry-play/`:
+  passed. Checked live controls, settings persistence, Hebrew layout,
+  exhibition play, and story save isolation. No JavaScript errors.
 
 SHA256: `559f29d4bfbbd18afc0cb398968c787f85cf8a84f0cd3e94f229767ef451cc86`.
 

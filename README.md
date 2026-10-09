@@ -2,8 +2,9 @@
 
 This repository contains the standalone browser game for GitHub Pages.
 
-Open the site to play. To play offline, download `Play.html` and open it in a
-browser. The file contains all game code and data.
+[Play the game](https://nnnsss999.github.io/harry-play/).
+To play offline, download `Play.html` and open it in a browser. The file
+contains all game code and data.
 
 The browser on each device stores progress. Use the game export function to
 make a save backup or transfer progress to another device.

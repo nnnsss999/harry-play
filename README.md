@@ -9,11 +9,11 @@ contains all game code and data.
 The browser on each device stores progress. Use the game export function to
 make a save backup or transfer progress to another device.
 
-Build: `0.6.2-main-0e3097d`.
-Source commit: `0e3097d58820f776c32923acdae49f8cff9f1b9f`.
+Build: `0.6.2-main-fd3c7fa`.
+Source commit: `fd3c7fac5314116e7df5252c5ed20ef48fc3c9ed`.
 `index.html` and `Play.html` contain the same data.
 
-SHA256: `559f29d4bfbbd18afc0cb398968c787f85cf8a84f0cd3e94f229767ef451cc86`.
+SHA256: `5da445c5b9f3ab09c94ea9be45117f1a721b9284e9a715119b2b6fa8b7c64380`.
 
 This is a fan-made game. Three.js uses the MIT license. Its license is in the
 HTML file and `THIRD-PARTY-three.js-LICENSE.txt`.

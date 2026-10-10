@@ -17,6 +17,14 @@ Build: `0.6.2-main-fd3c7fa`.
 - `node tools/autotest.mjs --base file:///opt/src/harrygame1/local/build/HarryStudentWhoWasntThere-0.6.2-main-fd3c7fa/Play.html --jobs 1 A01 A11`:
   passed, 2 of 2 story items.
 - `index.html` and `Play.html` match the tested build byte for byte.
+- GitHub Pages deployment completed for commit `ac022a3`. Public URL:
+  `https://nnnsss999.github.io/harry-play/`.
+- Downloads of the public root page and `Play.html` match the tested build
+  byte for byte.
+- `node tools/hebrew-interface-test.mjs https://nnnsss999.github.io/harry-play/`:
+  passed, 19 checks. No JavaScript errors.
+- `node tools/autotest.mjs --base https://nnnsss999.github.io/harry-play/ --jobs 1 A01`:
+  passed, 1 of 1 story item.
 
 SHA256: `5da445c5b9f3ab09c94ea9be45117f1a721b9284e9a715119b2b6fa8b7c64380`.
 

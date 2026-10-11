@@ -21,6 +21,16 @@ edges, smooth trees and rocks, draped Quidditch stands and oak castle doors.
 - `node tools/lighting-test.mjs file:///opt/src/harrygame1/local/tmp/deploy-6bf947e/local/build/HarryStudentWhoWasntThere-0.6.2-main-6bf947e/Play.html`:
   passed. Checked 12 views on all nine maps at Low and Medium.
 - `index.html` and `Play.html` match the tested build byte for byte.
+- GitHub Pages deployment completed for commit `62c8d23`. Public URL:
+  `https://nnnsss999.github.io/harry-play/`.
+- Downloads of the public root page and `Play.html` match the tested build
+  byte for byte.
+- `node tools/hebrew-interface-test.mjs https://nnnsss999.github.io/harry-play/`:
+  passed, 30 checks. No JavaScript errors.
+- `node tools/autotest.mjs --base https://nnnsss999.github.io/harry-play/ --jobs 1 A01`:
+  passed, 1 of 1 story item.
+- `node tools/lighting-test.mjs https://nnnsss999.github.io/harry-play/`:
+  passed, 12 views at Low and Medium. The captures show the new stones.
 
 SHA256: `87465d3c2c6f58bcdc62789e64b20083c39a1856741f6245d186d1b963ac3b9b`.
 
